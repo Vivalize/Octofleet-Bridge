@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Vivalize/Octofleet-Bridge#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "firebase-admin": "^8.3.0",
+    "firebase-admin": "^11.4.1",
     "request": "^2.88.0"
   }
 }
